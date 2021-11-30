@@ -59,7 +59,7 @@ public plugin_precache()
     precache_sound(SHOOP_SOUND);
 }
 
-public client_disconnect(iClient)
+public client_disconnected(iClient)
     g_bBeingShooped[iClient] = false;
 
 public fwd_TakeDamage(iVictim, iInflictor, iAttacker, Float:flDamage, iDmgBits)
