@@ -23,7 +23,7 @@ new const RMS_CUSTOMIZATION_FILE[] = "surf_configurations.ini"
 
 #define MYSQL_HOST "5.180.31.106"
 #define MYSQL_USER "u207_aic85mFc4P"
-#define MYSQL_PASS "VvzjgCgrO@j0Wwi.OUy8Rmr0"
+#define MYSQL_PASS "5w8ezEy5Nj2!zdbtrM3qs+Md"
 #define MYSQL_DATEBASE "s207_surf_ong"
 
 #define NIVEL_MAXIMO 1000
